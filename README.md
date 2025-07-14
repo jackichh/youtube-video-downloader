@@ -1,6 +1,6 @@
 # YouTube Video Downloader GUI
 
-A simple Python desktop app with a graphical interface to download YouTube videos, select video and audio formats, and optionally merge them using `ffmpeg`.
+A simple Python desktop app with a graphical interface to download YouTube videos, select video and audio formats using `yt-dlp`, and optionally merge them using `ffmpeg`.
 
 ---
 
